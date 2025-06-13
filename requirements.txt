@@ -1,6 +1,7 @@
 streamlit
 pandas
 matplotlib
-ydata-profiling
+ydata-profiling==4.5.1
 streamlit-pandas-profiling
 openpyxl
+
