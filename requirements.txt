@@ -3,5 +3,5 @@ pandas
 matplotlib<3.13
 seaborn
 openpyxl
-ploty.express
+plotly.express
 BytesIO
