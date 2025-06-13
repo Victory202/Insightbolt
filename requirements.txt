@@ -4,4 +4,4 @@ matplotlib<3.13
 seaborn
 openpyxl
 plotly.express
-BytesIO
+io
